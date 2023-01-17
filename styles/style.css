@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@400;500;600;700;800&display=swap');
+
+body {
+    font-family: Work Sans;
+    width: 1600px;
+    margin: 0;
+}
+
+.banner {
+    background: url("/images/banner/banner1.png");
+    text-align: right;
+    height: 800px;
+}
+
+.banner-text-box {
+    width: 525px;
+    margin-left: auto;
+    text-align: right;
+    padding: 150px;
+}
+
+h1 {
+    font-size: 65px;
+    font-weight: 700;
+}
+
+h2 {
+    font-size: 40px;
+    font-weight: 700;
+}
+
+p {
+    font-size: 16px;
+}
+
+button {
+    background-color: #F15B22;
+    color: #FFF;
+    width: 160px;
+    height: 64px;
+    font-weight: 600;
+    border: none;
+    border-radius: 10px;
+    font-size: 20px;
+}
+
+.body-text {
+    width: 400px;
+    height: 400px;
+    display: inline-block;
+    margin-left: 87px;
+    vertical-align: top;
+    margin-top: 200px;
+}
+
+.main {
+    margin: 50px 230px;
+}
+
+ul i {
+    margin-right: 10px;
+    color: lightgreen;
+}
+
+ul li {
+    padding-bottom: 10px;
+}
+
+.plan {
+    width: 25%;
+}
+
+.mini-banner-container {
+    background-image: url("/images/watch.png");
+    color: #FFF;
+    border-radius: 10px;
+}
+
+.mini-banner {
+    border-radius: 10px;
+    padding: 50px;
+    background-image: linear-gradient(to right, orange, rgba(0 0 0 /0));
+}
+
+#call-button {
+    background-color: #FFF;
+    color: #F15B22;
+}
+
+footer {
+    display: flex;
+    background-color: black;
+    color: white;
+    padding: 100px 230px 150px;
+    gap: 200px;
+}
+
+.future {
+    width: 485px;
+}
+
+.contact-icons {
+    display: flex;
+    gap: 20px;
+}
+
+input {
+    margin-bottom: 20px;
+    background-color: black;
+    color: #FFF;
+    display: block;
+    border: 1px solid gray;
+    padding: 20px;
+    width: 250px;
+    border-radius: 10px;
+
+}
+
+footer button {
+    background-color: #FFF;
+    color: #F15B22;
+}
