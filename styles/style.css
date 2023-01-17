@@ -7,7 +7,7 @@ body {
 }
 
 .banner {
-    background: url("/images/banner/banner1.png");
+    background: url("../images/banner/banner1.png");
     text-align: right;
     height: 800px;
 }
@@ -71,7 +71,7 @@ ul li {
 }
 
 .mini-banner-container {
-    background-image: url("/images/watch.png");
+    background-image: url("../images/watch.png");
     color: #FFF;
     border-radius: 10px;
 }
